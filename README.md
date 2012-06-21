@@ -9,7 +9,7 @@ All-in-one-gallery image-gallery background-animation jQuery javascript
 
 ### Description
 
-The user should have control over the window-GUI as fast as possible.
+The user should have control over the GUI window as soon as possible.
 
 After document-'ready' and window-'load', post-loadings should following.
 
