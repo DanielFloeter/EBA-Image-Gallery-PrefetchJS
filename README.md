@@ -3,6 +3,14 @@ EBA.scin
 
 All-in-one image gallery without external thumbnail-box or thumbnail slider-bar
 
+# Description
+
+The user should as fast as possible control for the window-GUI.
+
+# Approach
+
+It use iterative 'img.onload'.
+
 tags: All-in-one-gallery image-gallery background-animation jQuery javascript
 
 demo page:
