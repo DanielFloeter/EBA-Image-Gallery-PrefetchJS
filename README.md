@@ -3,23 +3,25 @@ EBA.scin
 
 All-in-one image gallery without external thumbnail-box or thumbnail slider-bar
 
-## tags
+### Tags
 
 All-in-one-gallery image-gallery background-animation jQuery javascript
 
 ### Description
 
-The user should as fast as possible control for the window-GUI.
+The user should have control over the window-GUI as fast as possible.
+
+After document-'ready' and window-'load', post-loadings should following.
 
 ### Approach
 
-It use iterative 'img.onload'.
+It use iterativly a loop for 'img.onload'.
 
 demo page:
 
 [http://kometschuh.de/gallery/EBA.scin/index.htm] (http://kometschuh.de/gallery/EBA.scin/index.htm)
 
-### License
+## License
 
 This plugin is licensed under the MIT or GPL License
 
