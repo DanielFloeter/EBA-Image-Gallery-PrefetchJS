@@ -2,11 +2,11 @@
 @
 @name:          EBA 3x3
 @description:   all-in-one image gallery
-@location:      javascrpt/javascript.EBA3x3.js
+@location:      javascrpt/javascript.EBA.scin.js
 @license:       GPL or MIT
 @author:        Daniel Flöter http://www.kometschuh.de
 @version:       0.9.0.1
-@date:          Juli 8th, 2012
+@date:          Juli 21th 2012
 @
 */
 
