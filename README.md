@@ -16,4 +16,4 @@ This plugin is licensed under the MIT or GPL License
 Copyright retained for jQuery "Easing Plugin" (c) 2008 [George McGinley Smith](http://gsgd.co.uk/sandbox/jquery/easing/) under BSD License, 
 for short easing explanation refer to [jquery UI effect](http://jqueryui.com/demos/effect/#easing)
 
-Copyright for EBA-Gellery (c) 2012 [Daniel Floeter](http://www.kometschuh.de)
+Copyright for EBA.scin (c) 2012 [Daniel Floeter](http://www.kometschuh.de)
