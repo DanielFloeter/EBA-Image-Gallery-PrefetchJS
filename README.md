@@ -15,9 +15,9 @@ After document-'ready' and window-'load', post-loadings should following.
 
 ### Approach
 
-It use iterativly a loop for 'img.onload'.
+Use iterativly a loop for 'img.onload'.
 
-demo page:
+### Demo-Page
 
 [http://kometschuh.de/gallery/EBA.scin/index.htm] (http://kometschuh.de/gallery/EBA.scin/index.htm)
 
