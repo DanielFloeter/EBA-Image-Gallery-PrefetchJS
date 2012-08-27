@@ -1,5 +1,5 @@
-EBA.scin
-===============
+EBA Image Gallery SkinJS
+========================
 
 All-in-one image gallery without external thumbnail-box or thumbnail slider-bar
 
@@ -19,7 +19,7 @@ Use iterativly a loop for 'img.onload'.
 
 ### Demo-Page
 
-[http://kometschuh.de/gallery/EBA.scin/index.htm] (http://kometschuh.de/gallery/EBA.scin/index.htm)
+[http://kometschuh.de/gallery/EBA-Image-Gallery-SkinJS/index.htm] (http://kometschuh.de/gallery/EBA-Image-Gallery-SkinJS/index.htm)
 
 ## License
 
