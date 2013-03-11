@@ -1,4 +1,4 @@
-EBA Image Gallery SkinJS
+EBA Image Gallery PrefetchJS
 ========================
 
 All-in-one image gallery without external thumbnail-box or thumbnail slider-bar
